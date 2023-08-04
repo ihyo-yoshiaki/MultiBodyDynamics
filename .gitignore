@@ -84,11 +84,7 @@ target/
 *~
 
 # option
-REPRISE/data/
-REPRISE/result/
-REPRISE/lambda_program/
-MultiBodyDynamics/result/
-signal_analysis_practice/
+result/
 
 
 
